@@ -1,4 +1,4 @@
-// بسم الله الرحمان الرحيم
+
 #include <iostream>
 using namespace std;
 int main ()
